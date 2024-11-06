@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a Frontend developer and a learner with a pass
 ## 🏆 Badges
 ## 🏆 Badges
 
-<img src="https://github.com/users/salonijoshi1980/achievements/quickdraw" width="150" alt="Github Badge">
-<img src="https://github.com/user-attachments/assets/ceebd034-1354-4040-a1e3-9ebc6213ef32" width="150" alt="Hactoberfest Badge">
+<img src="![Screenshot 2024-10-23 120701](https://github.com/user-attachments/assets/26381897-57ce-4819-9d92-82981cdd3503)" width="150" alt="Github Badge">
+<img src="" width="150" alt="Hactoberfest Badge">
 <img src="https://github.com/user-attachments/assets/d21a92dd-5e37-4706-9bab-92fc75eea981" width="150" alt="Git Badge">
 <img src="https://example.com/path/to/girlscript-badge.png" width="150" alt="GirlScript Badge">
 <img src="https://badgr.com/public/assertions/Bwn_waKKRiGeNLz3cDeKqw" width="150" alt="Postman API Badge">
