@@ -36,7 +36,6 @@ Let’s connect and share our journeys in the tech world!🌟
 ## 📫 How to Reach Me
 
 - Email: [salonij703@gmail.com](salonij703@gmail.com)
-- LinkedIn: [www.linkedin.com/in/salonijoshi1980](www.linkedin.com/in/salonijoshi1980)
 
 Feel free to check out my repositories and contributions. Thanks for visiting!
 
