@@ -63,7 +63,7 @@ Let’s connect and share our journeys in the tech world!🌟
 <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-shirt-0-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-shirt-sparkle-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-shirt-sparkle-eclipse.webp" width="150" alt="Hactoberfest Badge"><br><br>
-</div>
+</div><br>
 2.🏆 Github/Git(24) Badges
 <div style="display: flex; justify-content: space-around;">
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hactoberfest Badge">
@@ -72,18 +72,22 @@ Let’s connect and share our journeys in the tech world!🌟
 <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" alt="Github Badge">
 <img src="https://github.com/user-attachments/assets/d21a92dd-5e37-4706-9bab-92fc75eea981" width="150" alt="Git Badge"><br><br>
 </div>
-3.🏆 Gssoc(24) Badges
+3.🏆 Gssoc(24) Badges<br>
 <div style="display: flex; justify-content: space-around;">
 <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-</div>
+</div><br>
 4. 🏆 Postman(24) Badges
 <div style="display: flex; justify-content: space-around;">
 <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-![Screenshot 2024-11-03 094551](https://github.com/user-attachments/assets/d4e9bcda-c56b-490b-9209-7388a5c6bf5d)
+<img src="https://github.com/user-attachments/assets/d4e9bcda-c56b-490b-9209-7388a5c6bf5d" width="190" height="140" alt="Gssoc extd Badge">
+</div><br>
+5. 🏆 Arcade Google Cloud Skill Boost(24) Badges<br><br>
+<div style="display: flex; justify-content: space-around;">
+<img src="https://cdn.qwiklabs.com/9tkHTJsHf5Uq7aiVj1VnkDFfvpB9L%2FpeQ0B7tEho9KU%3D" width="150" alt=" Google Cloud Skill Boost Badge">
 </div>
 
 ## 📫 How to Reach Me
