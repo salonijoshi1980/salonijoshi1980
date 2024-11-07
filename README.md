@@ -27,15 +27,16 @@ Let’s connect and share our journeys in the tech world!🌟
 <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-shirt-0-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-shirt-sparkle-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-shirt-sparkle-eclipse.webp" width="150" alt="Hactoberfest Badge"><br><br>
+<img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="150" alt="Github Badge">
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" alt="Github Badge">
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" alt="Github Badge">
+<img src="https://github.com/user-attachments/assets/d21a92dd-5e37-4706-9bab-92fc75eea981" width="150" alt="Git Badge"><br><br>
 <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="150" alt="Gssoc extd Badge"><br><br>
-<img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="150" alt="Github Badge">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" alt="Github Badge">
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" alt="Github Badge">
-<img src="https://github.com/user-attachments/assets/d21a92dd-5e37-4706-9bab-92fc75eea981" width="150" alt="Git Badge">
+<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+
 </div>
 
 ## 📫 How to Reach Me
