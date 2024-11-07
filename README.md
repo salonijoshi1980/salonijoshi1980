@@ -79,7 +79,11 @@ Let’s connect and share our journeys in the tech world!🌟
 <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+</div>
+4. 🏆 Postman(24) Badges
+<div style="display: flex; justify-content: space-around;">
 <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="150" alt="Gssoc extd Badge">
+![Screenshot 2024-11-03 094551](https://github.com/user-attachments/assets/d4e9bcda-c56b-490b-9209-7388a5c6bf5d)
 </div>
 
 ## 📫 How to Reach Me
@@ -87,7 +91,7 @@ Let’s connect and share our journeys in the tech world!🌟
 - Email: [salonij703@gmail.com](salonij703@gmail.com)
   
 - Connect with me :
-<a href="https://linkedin.com/in/salonijoshi1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salonijoshi1980" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/salonijoshi1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salonijoshi1980" height="25" width="25"/></a>
 
 Feel free to check out my repositories and contributions. Thanks for visiting!
 
