@@ -20,23 +20,31 @@ Let’s connect and share our journeys in the tech world!🌟
 - Git & GitHub
 
 ## 🏆 Badges
+
+1.🏆 Hactoberfest(24) Badges
 <div style="display: flex; justify-content: space-around;">
 <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-shirt-0-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-shirt-sparkle-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-shirt-sparkle-eclipse.webp" width="150" alt="Hactoberfest Badge"><br><br>
+</div>
+2.🏆 Github/Git(24) Badges
+<div style="display: flex; justify-content: space-around;">
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hactoberfest Badge">
 <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="150" alt="Github Badge">
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" alt="Github Badge">
 <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" alt="Github Badge">
 <img src="https://github.com/user-attachments/assets/d21a92dd-5e37-4706-9bab-92fc75eea981" width="150" alt="Git Badge"><br><br>
+</div>
+3.🏆 Gssoc(24) Badges
+<div style="display: flex; justify-content: space-around;">
 <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-
+<img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 </div>
 
 ## 📫 How to Reach Me
