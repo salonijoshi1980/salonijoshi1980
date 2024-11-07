@@ -21,12 +21,12 @@ Let’s connect and share our journeys in the tech world!🌟
 
 ## 🏆 Badges
 <div style="display: flex; justify-content: space-around;">
-<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" width="150" alt="Hactoberfest Badge">
 <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-shirt-0-0.webp" width="150" alt="Hactoberfest Badge">
-<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-shirt-sparkle-0.webp" width="150" alt="Hactoberfest Badge"><br><br>
-<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-shirt-sparkle-eclipse.webp" width="150" alt="Hactoberfest Badge">
+<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-shirt-sparkle-0.webp" width="150" alt="Hactoberfest Badge">
+<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-shirt-sparkle-eclipse.webp" width="150" alt="Hactoberfest Badge"><br><br>
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hactoberfest Badge">
 <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="150" alt="Github Badge">
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" alt="Github Badge">
 <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" alt="Github Badge">
