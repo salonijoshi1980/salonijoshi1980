@@ -48,7 +48,7 @@ Let’s connect and share our journeys in the tech world!🌟
 - Html
 - Css
 - JavaScript
-- Java
+- C++
 - C
 - MySQL
 - Postman API
