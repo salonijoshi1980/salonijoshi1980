@@ -85,12 +85,7 @@ Let’s connect and share our journeys in the tech world!🌟
 <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://github.com/user-attachments/assets/d4e9bcda-c56b-490b-9209-7388a5c6bf5d" width="190" height="140" alt="Gssoc extd Badge">
 </div><br>
-5. 🏆 Hackweb3(24) Badges<br><br>
-<div style="display: flex; justify-content: space-around;">
-<img src="https://gssoc.girlscript.tech/badges/web3hack.png?imwidth=96" width="170" height="150" alt="Gssoc extd Badge">
-<img src="https://github.com/user-attachments/assets/3c064464-b2a8-47d4-b900-8d578aaae53f?imwidth=96" width="150" height="150" alt="Gssoc extd Badge">
-</div><br>
-6. 🏆 Arcade Google Cloud Skill Boost(24) Badges<br><br>
+5. 🏆 Arcade Google Cloud Skill Boost(24) Badges<br><br>
 <div style="display: flex; justify-content: space-around;">
 <img src="https://cdn.qwiklabs.com/9tkHTJsHf5Uq7aiVj1VnkDFfvpB9L%2FpeQ0B7tEho9KU%3D" width="150" alt=" Google Cloud Skill Boost Badge">
 </div>
