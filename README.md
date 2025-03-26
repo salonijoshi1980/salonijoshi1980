@@ -49,9 +49,9 @@ Let’s connect and share our journeys in the tech world!🌟
 
 ## 🔧 Tools & Technologies
 
-- Python
 - Html
 - Css
+- Tailwind Css
 - JavaScript
 - C++
 - C
