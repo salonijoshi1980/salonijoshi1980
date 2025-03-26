@@ -1,11 +1,16 @@
 <h1 align="center"> Hi there, I'm Saloni Joshi👋</h1>
 
-Welcome to my GitHub profile!<br><br>🌟 Passionate Frontend Developer & Lifelong Learner 
-I am a dedicated developer with a strong foundation in HTML, CSS, JavaScript, Java, Python, and basic data structures and algorithms. My curiosity drives me to explore new technologies and deepen my understanding of the ever-evolving tech landscape.
+Welcome to my GitHub profile!<br><br>💡 Curious Learner | Problem-Solver | Explorer
 
-Currently, I am enhancing my skills by diving into modern frameworks and backend development. I believe that a well-rounded skill set is crucial for delivering impactful solutions, and I’m committed to continuous learning through hands-on projects and certifications that bolster my resume.
+A few months ago, I started my journey in tech with nothing but curiosity. Since then, I’ve explored web development, open source, and competitive programming, learning that progress comes from consistency, not perfection.
 
-I thrive in collaborative environments and enjoy sharing knowledge with fellow tech enthusiasts. My goal is to create intuitive and efficient user experiences while staying up-to-date with industry trends.
+I've realized that challenges are not obstacles but stepping stones—from struggling with basic logic to solving problems, every bit of effort counts. Right now, I’m diving deeper into data structures, algorithms, JavaScript, and backend development while sharpening my problem-solving skills.
+
+Every challenge I solve reminds me that growth🌸 is a process where you have to keep patience while going and stay calm, and I’m here for it.
+
+For anyone just starting: You don’t have to be perfect, just stay persistent and start learning with challenges or building things whether it's just a navbar, profile card ,etc. Start with small and slowly - slowly go higher 🚀 this journey isn’t about being the best overnight—it’s about improving a little every day. Keep building, keep learning, and most importantly, believe in yourself.
+
+I believe that a well-rounded skill set is crucial for delivering impactful solutions, and I’m committed to continuous learning through hands-on projects and do problem-solving for logical building.
 
 Let’s connect and share our journeys in the tech world!🌟
 
