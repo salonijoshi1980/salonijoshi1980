@@ -1,10 +1,25 @@
-<h1 align="center"> Hi there, I'm Saloni Joshi👋</h1>
+# 🌸 Saloni’s Living Journal  
 
-Welcome to my GitHub profile!<br><br>💡 Curious Learner | Problem-Solver | Explorer
+> “Every time I watch an airplane carve through the sky near my home,  
+> I imagine myself on board, flying toward new ideas and uncharted horizons.”  
 
-A few months ago, I started my journey in tech with nothing but curiosity. Since then, I’ve explored web development, open source, and competitive programming, learning that progress comes from consistency, not perfection.
+That vision carried me through some of the hardest moments of my life.  
+It’s why I code, why I write, why I talk to strangers in my way..  
+Because life isn’t just about arriving somewhere — it’s about *collecting encounters along the way*.  
 
-I've realized that challenges are not obstacles but stepping stones—from struggling with basic logic to solving problems, every bit of effort counts. Right now, I’m diving deeper into data structures, algorithms, JavaScript, and backend development while sharpening my problem-solving skills.
+---
+
+## 🌱 Chapter 1: Finding Tech in Chaos  
+
+I first met technology not in a shiny lab or top-tier college — but in late-night struggles, self-learning, and curiosity.  
+Where others saw obstacles, I saw patterns waiting to be solved.  
+
+SO, A few year ago, I started my journey in tech with nothing but curiosity. Since then, I’ve explored web development, open source, and competitive programming, learning that progress comes from consistency, not perfection.
+- Built my first projects with **HTML, CSS, JS**.  
+- Entered open source without knowing what PRs were and ranked well too.  
+- Slowly found myself in communities where *dreamers build together*.  
+
+I've realized that challenges are not obstacles but stepping stones—from struggling with basic logic to solving problems, every bit of effort counts. Right now, I’m diving deeper into data structures, algorithms, operating system, and other core-cs while sharpening my problem-solving skills.
 
 Every challenge I solve reminds me that growth🌸 is a process where you have to keep patience while going and stay calm, and I’m here for it.
 
@@ -45,19 +60,6 @@ Let’s connect and share our journeys in the tech world!🌟
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
 </p>
-
-
-## 🔧 Tools & Technologies
-
-- Html
-- Css
-- Tailwind Css
-- JavaScript
-- C++
-- C
-- MySQL
-- Postman API
-- Git & GitHub
 
 ## 🏆 Badges
 
