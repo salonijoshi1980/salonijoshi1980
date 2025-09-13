@@ -77,30 +77,31 @@ Let’s connect and share our journeys in the tech world!🌟
 <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" alt="Github Badge">
 <img src="https://github.com/user-attachments/assets/d21a92dd-5e37-4706-9bab-92fc75eea981" width="150" alt="Git Badge"><br><br>
 </div>
-3.🏆 Gssoc(24) Badges<br>
+
+4. 🏆 Postman(24)/Arcade Google Cloud Skill Boost(24) Badges
 <div style="display: flex; justify-content: space-around;">
-<img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-<img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-<img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-<img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-<img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="150" alt="Gssoc extd Badge">
-</div><br>
-4. 🏆 Postman(24) Badges
-<div style="display: flex; justify-content: space-around;">
-<img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="150" alt="Gssoc extd Badge">
 <img src="https://github.com/user-attachments/assets/d4e9bcda-c56b-490b-9209-7388a5c6bf5d" width="190" height="140" alt="Gssoc extd Badge">
-</div><br>
-5. 🏆 Arcade Google Cloud Skill Boost(24) Badges<br><br>
-<div style="display: flex; justify-content: space-around;">
 <img src="https://cdn.qwiklabs.com/9tkHTJsHf5Uq7aiVj1VnkDFfvpB9L%2FpeQ0B7tEho9KU%3D" width="150" alt=" Google Cloud Skill Boost Badge">
-</div>
+</div><br>
 
-## 📫 How to Reach Me
+## ✨ What This GitHub Means  
 
-- Email: [salonij703@gmail.com](salonij703@gmail.com)
-  
-- Connect with me :
-<a href="https://linkedin.com/in/salonijoshi1980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salonijoshi1980" height="25" width="25"/></a>
+This isn’t just a portfolio.  
+It’s proof that I want to live fully —  
+to code, to research, to write, to bake, to connect.  
 
-Feel free to check out my repositories and contributions. Thanks for visiting!
+Maybe you’ll see projects here.  
+Maybe you’ll see journals.  
+But always, you’ll see *me*.  
+
+---
+
+## 📫 Let’s Connect  
+
+- Email: [salonij703@gmail.com](mailto:salonij703@gmail.com)  
+- LinkedIn: [linkedin.com/in/salonijoshi1980](https://linkedin.com/in/salonijoshi1980)  
+
+---
+
+⭐ *Thanks for stepping into my story. I hope it inspires you to live yours too.*  
 
