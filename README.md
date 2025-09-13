@@ -1,96 +1,86 @@
-# 🌸 Saloni’s Living Journal  
+# 🌸 Saloni’s Living Journal <p> <!-- Typing Animation --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F76BC7&width=700&lines=--+Explorer+of+Life;--+Chance+Encounters;--+Tech+Dreamer;--+Builder;--+Future+Researcher" alt="Typing SVG" /></p>
 
-> “Every time I watch an airplane carve through the sky near my home,  
+<p align="center"> <!-- 3D Animated Girl Coding --> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc3NDI4NjgsIm5iZiI6MTc1Nzc0MjU2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTEzVDA1NDkyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzZWM4OTYwYTU2NGRjNDdlMGQ2Nzk3ZTk3ZmFhYmM0NzZiMGQ0ZDY5OTVkYzY4YzFkZTE3YzBlY2IyOWU5ZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Y9UEXe1_tysGZkISZTE3HIrYkpXLG1Xwesz3Y5LZ1Lc"> </p> 
+
+<p align="center">
+  <i>“Learning, building, and exploring — one line of code, one encounter, one dream at a time.”</i>
+</p>
+
+## 🌱 About Me  
+
+> **“Every time I watch an airplane carve through the sky near my home,**  
 > I imagine myself on board, flying toward new ideas and uncharted horizons.”  
 
-That vision carried me through some of the hardest moments of my life.  
-It’s why I code, why I write, why I talk to strangers in my way..  
-Because life isn’t just about arriving somewhere — it’s about *collecting encounters along the way*.  
+That vision has carried me through some of the hardest moments of my life.  
+
+I code, I write, I build… because life isn’t just about **arriving somewhere** —  
+it’s about *collecting encounters along the way*.  
 
 ---
 
-## 🌱 Chapter 1: Finding Tech in Chaos  
+## 🛤️ My Journey So Far  
 
-I first met technology not in a shiny lab or top-tier college — but in late-night struggles, self-learning, and curiosity.  
-Where others saw obstacles, I saw patterns waiting to be solved.  
+I didn’t meet technology in shiny labs — I found it in quiet nights, with nothing but curiosity.  
 
-SO, A few year ago, I started my journey in tech with nothing but curiosity. Since then, I’ve explored web development, open source, and competitive programming, learning that progress comes from consistency, not perfection.
-- Built my first projects with **HTML, CSS, JS**.  
-- Entered open source without knowing what PRs were and ranked well too.  
-- Slowly found myself in communities where *dreamers build together*.  
+From building my first webpages with **HTML, CSS, JS**,  
+to diving into **open source, competitive programming, and research**,  
+I’ve learned that growth isn’t about being perfect — it’s about showing up every day.  
 
-I've realized that challenges are not obstacles but stepping stones—from struggling with basic logic to solving problems, every bit of effort counts. Right now, I’m diving deeper into data structures, algorithms, operating system, and other core-cs while sharpening my problem-solving skills.
+- 🚀 Built beginner-friendly projects (navbars, journals, profile cards)  
+- 🌍 Joined open source without knowing what PRs were — and still made it through  
+- 👩‍💻 Explored communities where *dreamers build together*  
+- 📚 Currently learning **DSA, OS, and core CS** to sharpen my logical thinking  
 
-Every challenge I solve reminds me that growth🌸 is a process where you have to keep patience while going and stay calm, and I’m here for it.
+✨ My philosophy: *Consistency beats perfection. Small steps matter.*  
 
-For anyone just starting: You don’t have to be perfect, just stay persistent and start learning with challenges or building things whether it's just a navbar, profile card ,etc. Start with small and slowly - slowly go higher 🚀 this journey isn’t about being the best overnight—it’s about improving a little every day. Keep building, keep learning, and most importantly, believe in yourself.
+---
 
-I believe that a well-rounded skill set is crucial for delivering impactful solutions, and I’m committed to continuous learning through hands-on projects and do problem-solving for logical building.
+## 🏆 My Badges as Memory Cards  
 
-Let’s connect and share our journeys in the tech world!🌟
+### 🎉 Hacktoberfest 2024
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="120">
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" width="120">
+  <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-shirt-0-0.webp" width="120">
+  <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-shirt-sparkle-0.webp" width="120">
+  <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-shirt-sparkle-eclipse.webp" width="120">
+</div>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonijoshi1980&label=Profile%20views&color=0e75b6&style=flat" alt="salonijoshi1980" /> </p>
+### 🌟 GitHub / Open Source
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="120">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="120">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="120">
+  <img src="https://github.com/user-attachments/assets/d21a92dd-5e37-4706-9bab-92fc75eea981" width="120">
+</div>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonijoshi1980" alt="salonijoshi1980" /></a> </p>
+### ☁️ Cloud / Tools
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://cdn.qwiklabs.com/9tkHTJsHf5Uq7aiVj1VnkDFfvpB9L%2FpeQ0B7tEho9KU%3D" width="150">
+  <img src="https://github.com/user-attachments/assets/d4e9bcda-c56b-490b-9209-7388a5c6bf5d" width="180">
+</div>  
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## ⚡ Languages & Tools I Play With  
+
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+</p>  
 
-## 🏆 Badges
-
-1.🏆 Hactoberfest(24) Badges
-<div style="display: flex; justify-content: space-around;">
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" width="150" alt="Hactoberfest Badge">
-<img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tea-0-0-0.webp" width="150" alt="Hactoberfest Badge">
-<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tea-shirt-0-0.webp" width="150" alt="Hactoberfest Badge">
-<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-shirt-sparkle-0.webp" width="150" alt="Hactoberfest Badge">
-<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tea-shirt-sparkle-eclipse.webp" width="150" alt="Hactoberfest Badge"><br><br>
-</div><br>
-2.🏆 Github/Git(24) Badges
-<div style="display: flex; justify-content: space-around;">
-<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hactoberfest Badge">
-<img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="150" alt="Github Badge">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" alt="Github Badge">
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" alt="Github Badge">
-<img src="https://github.com/user-attachments/assets/d21a92dd-5e37-4706-9bab-92fc75eea981" width="150" alt="Git Badge"><br><br>
-</div>
-
-4. 🏆 Postman(24)/Arcade Google Cloud Skill Boost(24) Badges
-<div style="display: flex; justify-content: space-around;">
-<img src="https://github.com/user-attachments/assets/d4e9bcda-c56b-490b-9209-7388a5c6bf5d" width="190" height="140" alt="Gssoc extd Badge">
-<img src="https://cdn.qwiklabs.com/9tkHTJsHf5Uq7aiVj1VnkDFfvpB9L%2FpeQ0B7tEho9KU%3D" width="150" alt=" Google Cloud Skill Boost Badge">
-</div><br>
+---
 
 ## ✨ What This GitHub Means  
 
-This isn’t just a portfolio.  
-It’s proof that I want to live fully —  
-to code, to research, to write, to bake, to connect.  
+This isn’t just a portfolio — it’s proof that I want to **live fully**:  
+to code, research, write, bake, and connect.  
 
 Maybe you’ll see projects here.  
 Maybe you’ll see journals.  
@@ -98,12 +88,19 @@ But always, you’ll see *me*.
 
 ---
 
-## 📫 Let’s Connect  
+## 📊 Dynamic Life Tracker  
 
-- Email: [salonij703@gmail.com](mailto:salonij703@gmail.com)  
-- LinkedIn: [linkedin.com/in/salonijoshi1980](https://linkedin.com/in/salonijoshi1980)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salonijoshi1980&theme=rose_pine)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salonijoshi1980&layout=compact&theme=rose_pine)  
 
 ---
 
-⭐ *Thanks for stepping into my story. I hope it inspires you to live yours too.*  
+## 📫 Let’s Connect  
 
+- ✉️ Email: [salonij703@gmail.com](mailto:salonij703@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/salonijoshi1980](https://linkedin.com/in/salonijoshi1980)  
+
+---
+
+⭐ *Thanks for stepping into my story. I hope it inspires you.*
+ you to live yours too.*  
