@@ -91,7 +91,6 @@ But always, you’ll see *me*.
 ## 📊 Dynamic Life Tracker  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salonijoshi1980&theme=rose_pine)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salonijoshi1980&layout=compact&theme=rose_pine)  
 
 ---
 
